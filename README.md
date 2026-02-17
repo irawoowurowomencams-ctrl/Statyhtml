@@ -6,10 +6,21 @@ Welcome to the IRAWO Owuro Women Cooperative Agriculture and Multipurpose Societ
 IRAWO OWURO Women Cooperative Agriculture and Multipurpose Society is a group of dedicated women for self and community improvement and empowerment through various programs and initiatives. Our focus is on providing resources, support, and opportunities to women to help them thrive economically and socially.
 
 ## Features
-- **Community Engagement:** Connect with other women in the cooperative and participate in community programs.
-- **Resource Sharing:** Access various resources related to women's empowerment, including workshops and training sessions.
-- **Event Calendar:** Stay updated with upcoming events, activities, and workshops.
-- **Contact Information:** Get in touch with us easily through our contact page.
+Your membership unlocks:
+1. Economic Empowerment:  Skill acquisition and business funding.
+
+2. Financial Advisory & Support: Guidance on savings and sustainable credit.
+
+3. Group Initiatives: Collective farming and trade projects.
+
+4. Convenient Asset Acquisition: Structured paths to owning land and equipment.
+
+5. Community Development: Social impact projects within Idera Odogunyan.
+
+In Unity and Progress,
+The Management Team
+23, Olanrewaju Olabode street Idera Odogunyan Ikorodu Lagos
+08022813213 | 08095406268
 
 ## GitHub Pages Hosting Instructions
 1. Ensure the `gh-pages` branch is set up properly in your repository.
