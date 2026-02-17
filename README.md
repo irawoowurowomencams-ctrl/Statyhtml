@@ -1,9 +1,9 @@
 # IRAWO Owuro Women Cooperative Website
 
-Welcome to the IRAWO Owuro Women Cooperative website project! This repository contains the source code and resources for the website of the IRAWO Owuro Women Cooperative.
+Welcome to the IRAWO Owuro Women Cooperative Agriculture and Multipurpose Society. This repository contains the source code and resources for the website of the IRAWO Owuro Women Cooperative.
 
 ## About the Organization
-IRAWO (Iyalode Rere Awon Omo) is a women cooperative aimed at empowering women in our community through various programs and initiatives. Our focus is on providing resources, support, and opportunities to women to help them thrive economically and socially.
+IRAWO OWURO Women Cooperative Agriculture and Multipurpose Society is a group of dedicated women for self and community improvement and empowerment through various programs and initiatives. Our focus is on providing resources, support, and opportunities to women to help them thrive economically and socially.
 
 ## Features
 - **Community Engagement:** Connect with other women in the cooperative and participate in community programs.
